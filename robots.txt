@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lqeem.csgad.com/XMq/sitemap.xml.gz
